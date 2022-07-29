@@ -1,0 +1,48 @@
+nav{
+    background-color: yellowgreen;
+    height: 50px;  
+  }
+  #topnav{
+    position: fixed;
+     top: 0px;
+     width: 100%; 
+  }
+ 
+  nav ul{
+     list-style-type: none; 
+     display: flex;
+  }
+  nav li{
+      margin: 10px;
+      width: 100%;
+  }
+  nav ul li a{
+      text-decoration: none;
+      color: red;
+  }
+  #myHead{
+      text-align: center;
+      margin-top: 200px;
+       
+      
+  }
+  @font-face {
+    font-family: myFont;
+    src: url(../DancingScript-Bold-TTF.vfb);
+  }
+  P{
+    font-size: 100px;
+    color:blue ;
+    font-family:myFont;
+}
+  
+  body{
+    background-image: url('../Images/Wallpaper4.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+
+  .Sec2{
+    float:right;
+  }
+  

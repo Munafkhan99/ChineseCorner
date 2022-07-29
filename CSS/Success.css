@@ -1,0 +1,34 @@
+nav{
+    background-color: yellowgreen;
+    height: 50px;  
+  }
+  #topnav{
+    position: fixed;
+     top: 0px;
+     width: 100%; 
+  }
+ 
+  nav ul{
+     list-style-type: none; 
+     display: flex;
+  }
+  nav li{
+      margin: 10px;
+      width: 100%;
+  }
+  nav ul li a{
+      text-decoration: none;
+      color: red;
+  }
+
+  .Sec1{
+    margin-top: 300px;
+    padding-left: 200px;
+    background-color: black;
+    color: aqua;
+  }
+  body{
+    background-image: url('../Thank.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }

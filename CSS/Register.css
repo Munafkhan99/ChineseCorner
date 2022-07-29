@@ -1,0 +1,40 @@
+nav{
+    background-color: black;
+    height: 50px;  
+  }
+  #topnav{
+    position: fixed;
+     top: 0px;
+     width: 100%; 
+  }
+ 
+  nav ul{
+     list-style-type: none; 
+     display: flex;
+  }
+  nav li{
+      margin: 10px;
+        width: 100%;
+  }
+  nav ul li a{
+      text-decoration: none;
+      color: white;
+  }
+ /*  #myHead{
+      text-align: center;
+      margin-top: 300px;
+     
+
+  } */
+  #RegHead{
+      margin-top: 100px;
+      padding-left: 500px;
+  }
+
+  #regTable{
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: greenyellow;
+  }
+
+ 

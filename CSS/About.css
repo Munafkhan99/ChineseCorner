@@ -1,0 +1,60 @@
+nav{
+    background-color: yellowgreen;
+    height: 50px;  
+  }
+  #topnav{
+    position: fixed;
+     top: 0px;
+     width: 100%; 
+  }
+ 
+  nav ul{
+     list-style-type: none; 
+     display: flex;
+  }
+  nav li{
+      margin: 10px;
+      width: 100%;
+  }
+  nav ul li a{
+      text-decoration: none;
+      color: red;
+  }
+#Fig1{
+    float: right;
+   
+}
+ #Fig2{
+    float: right;
+}
+
+#Sec1{
+    margin-top: 80px;
+}
+#Para1{
+   
+    margin-top: 100px ;
+}
+#Para2{
+    margin-top: 100px;
+}
+#Sec3{
+    margin-top: 150px;
+}  
+@font-face {
+    font-family: myFont;
+    src: url(../DancingScript-Regular.vfb);
+  }
+body{
+    background-image: url('../Images/ChefBack2.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+  }
+  p{
+    font-size: 20px;
+    text-align: justify;
+  }
+  h1{
+    text-align: center;
+  }
