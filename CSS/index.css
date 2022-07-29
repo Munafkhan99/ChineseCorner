@@ -37,7 +37,7 @@ nav{
 }
   
   body{
-    background-image: url('Images/Wallpaper4.jpg');
+    background-image:radial-gradient(white,gray,bisque);
     background-repeat: no-repeat;
     background-size: 100%;
   }
